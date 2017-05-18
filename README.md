@@ -3,4 +3,5 @@
 ## The course is divided into several sections. Follow this index for each section. More details in each folder.
 
 * Python Crash Course
-
+* Data Analysis
+* Data Visualisation
