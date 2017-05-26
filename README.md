@@ -5,3 +5,4 @@
 * Python Crash Course
 * Data Analysis
 * Data Visualisation
+* Deep Learning
